@@ -1,0 +1,14 @@
+git -v :is used to check the version of github
+
+GIT:it is the version  control
+
+work flow of git: 
+repository(working repository): is the folder 
+
+stagging area: is just a place to store the data temporarily
+
+local repository/GIT:it is GIT, use to store the data (store the data locally)
+
+center repository:it is github ,will store git data/git records(store globally)
+
+create folder and then open gitbash after entering into the folder
